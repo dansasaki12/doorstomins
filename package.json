@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@instructure/ui-buttons": "^5.19.0",
+    "@instructure/ui-elements": "^5.19.0",
+    "@instructure/ui-forms": "^5.19.0",
+    "@instructure/ui-icons": "^5.20.1",
+    "@instructure/ui-themeable": "^5.19.0",
+    "@instructure/ui-themes": "^5.19.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
+    "react-sweet-progress": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
